@@ -12,4 +12,5 @@ cout<<"Enter the number of minutes: ";
 cin >> minutes;
 
 cout<< "Time: "<<hours<<":"<<minutes<<endl;
+
 }
