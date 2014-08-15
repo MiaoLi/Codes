@@ -1,0 +1,235 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"GetD",
+				"GetKinBody"
+			],
+			[
+				"name",
+				"namespace"
+			],
+			[
+				"in",
+				"include"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 369.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"rep",
+				"SublimeREPL: Python"
+			],
+			[
+				"REP",
+				"SublimeREPL: Python"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/miao/Documents/devel/Codes/GraspPlanning2014/GraspPlanning.py",
+		"/home/miao/Documents/devel/Codes/GraspPlanning2014/Models/allegroTac.kinbody.xml",
+		"/home/miao/Documents/devel/Codes/GraspPlanning2014/Models/spray.kinbody.xml",
+		"/home/miao/Documents/devel/roscodes/ICRA2015/python/myFuncs.py",
+		"/home/miao/Documents/devel/Codes/GraspPlanning2014/Models/allegro.robot.xml",
+		"/home/miao/Documents/devel/roscodes/ICRA2015/robots/allegroTac.robot.xml",
+		"/home/miao/Documents/devel/roscodes/ICRA2015/python/optTacHand.py",
+		"/home/miao/Documents/devel/roscodes/openrave/src/robots/wam4.kinbody.xml",
+		"/home/miao/Documents/devel/Codes/GraspPlanning2014/Robots/spray.kinbody.xml",
+		"/home/miao/Documents/devel/roscodes/ICRA2015/python/spray.kinbody.xml",
+		"/home/miao/.config/sublime-text-3/Packages/SideBarEnhancements/Default (Linux).sublime-keymap",
+		"/home/miao/.bashrc",
+		"/home/miao/Documents/devel/Codes/GraspPlanning2014/readme.txt",
+		"/home/miao/Documents/devel/roscodes/ICRA2015/python/correctionMonitor.py",
+		"/home/miao/Documents/devel/roscodes/ICRA2015/robots/allegro.robot.xml",
+		"/home/miao/Documents/devel/roscodes/ICRA2015/robots/allegroTac.kinbody.xml",
+		"/home/miao/Documents/devel/Codes/TestingCodes/C/test.cpp",
+		"/home/miao/Documents/devel/roscodes/scikit-learn/examples/datasets/plot_digits_last_image.py",
+		"/home/miao/Documents/devel/roscodes/ICRA2015/python/talker.py",
+		"/home/miao/Documents/devel/Codes/pythonCodes/testpy.py",
+		"/home/miao/Documents/devel/roscodes/myplugin/myplugin.cpp",
+		"/home/miao/Documents/devel/roscodes/myplugin/testplugin.py",
+		"/home/miao/Documents/devel/roscodes/scikit-learn/examples/cluster/plot_lena_ward_segmentation.py",
+		"/home/miao/Documents/devel/roscodes/scikit-learn/sklearn/cluster/hierarchical.py",
+		"/home/miao/Documents/devel/roscodes/scikit-learn/sklearn/cluster/_feature_agglomeration.py",
+		"/usr/share/pyshared/scipy/misc/lena.dat",
+		"/home/miao/Documents/devel/roscodes/myplugin/mytest.py",
+		"/home/miao/Documents/devel/roscodes/openrave/src/data/lab1.env.xml",
+		"/home/miao/Documents/devel/roscodes/openrave/src/robots/barretthand.kinbody.xml",
+		"/home/miao/Documents/devel/roscodes/openrave/modelsnew/models/barrett/link1.iv",
+		"/home/miao/Documents/devel/roscodes/openrave/src/data/table_washer.kinbody.xml",
+		"/home/miao/Documents/devel/roscodes/openrave/src/data/segway.kinbody.xml",
+		"/home/miao/Documents/devel/roscodes/openrave/python/databases/grasping.py",
+		"/home/miao/Documents/devel/roscodes/openrave/src/data/wamtest1.env.xml",
+		"/home/miao/Documents/devel/roscodes/myplugin/robots/myrobot.robot.xml",
+		"/home/miao/Documents/devel/roscodes/myplugin/scenes/myscene.env.xml",
+		"/home/miao/Documents/devel/roscodes/myplugin/test.py",
+		"/home/miao/Documents/devel/roscodes/openrave/python/examples/fastgrasping.py",
+		"/home/miao/Documents/devel/Codes/TestingCodes/C/test_1_7.cpp",
+		"/home/miao/Documents/devel/roscodes/myplugin/CMakeLists.txt",
+		"/home/miao/Documents/devel/roscodes/openrave/plugins/grasper/grasper.cpp",
+		"/home/miao/Documents/devel/Codes/TestingCodes/C/test",
+		"/home/miao/Documents/devel/others/TODOLIST.todo",
+		"/home/miao/Documents/devel/others/untitled",
+		"/home/miao/Documents/devel/TestingCodes/C/test.cpp"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"myFuncs",
+			"AgglomerativeClustering"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "Spray.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control Messages"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 75.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

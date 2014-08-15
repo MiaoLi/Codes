@@ -1,0 +1,10 @@
+<KinBody name="spray">
+  <modelsdir>.</modelsdir>     <!--for relative path -->
+  <Body type="dynamic">
+    <Geom type="trimesh">
+      <Data>Objects/Spray.ply</Data>
+      <Render>Objects/Spray.ply</Render>
+      <transparency>0.8</transparency>
+    </Geom>      
+  </Body>
+</KinBody>
