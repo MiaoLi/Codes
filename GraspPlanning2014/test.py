@@ -1,5 +1,11 @@
 #!/usr/bin/python
 
+"""
+We want to compare several different methods for grasp planing:
+--- two-step planning
+--- one-shot planning
+"""
+
 from openravepy import *
 import time
 
