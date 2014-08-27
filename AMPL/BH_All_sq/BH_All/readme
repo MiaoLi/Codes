@@ -1,0 +1,13 @@
+This folder contains all the matlab function and AMPL file.
+*/model : creat the model for AMPL
+
+main_cylinder.m: the main function to creat all the model for AMPL;
+fcreat_ini_points.m : creat the initial orientation of hand;
+fAll_mod.m: creat the All_mod.txt;
+fcreat_mod_file.m: creat different AMPL model for different initial points;
+BH_tem1: the template for the fcreat_mod_file.m;
+All_mod.txt: the template for fAll_mod.m
+
+*/solution :  matlab function used to analysis the solutions.
+plot_all_grasp.m: plot the grasp;
+RTK_sol.m: save the solution to RTK format;

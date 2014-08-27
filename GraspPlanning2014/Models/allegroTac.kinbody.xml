@@ -1,5 +1,5 @@
 <KinBody name="AllegroHand">
-  <modelsdir>.</modelsdir>  
+  <modelsdir>./AllegroHand</modelsdir>  
   <Body name="handbase" type="dynamic">
     <!-- <Translation>0 0 0.095</Translation>
     <RotationMat>-1 0 0 0 -1 0 0 0 1</RotationMat> -->
