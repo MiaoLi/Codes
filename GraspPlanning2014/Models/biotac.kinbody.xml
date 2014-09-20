@@ -1,0 +1,10 @@
+<KinBody name="biotac">
+  <modelsdir>.</modelsdir>     <!--for relative path -->
+  <Body type="dynamic">
+    <Geom type="trimesh">
+      <Data>Objects/BioTac_Assembly_small.obj 0.001</Data>
+      <Render>Objects/BioTac_Assembly_small.obj 0.001</Render>
+      <transparency>0.7</transparency>
+    </Geom>      
+  </Body>
+</KinBody>
